@@ -1,0 +1,12 @@
+body
+{
+  background-image: url(../image/bg2.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+
+
+input.text-xl.font-light.p-2.w-full.shadow-xl.focus\:outline-none.capitalize.placeholder\:lowercase {
+  font-size: 22px;
+}
